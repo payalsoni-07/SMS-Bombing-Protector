@@ -2,7 +2,7 @@
 
 ### Overview
 
-A simple Machine learning and `NLP` based Web Application which classify the given messages as Spam or Ham(Not Spam) built using `Flask`
+A prototype solution to get protection from SMS Bombing. It is a simple Machine learning and `NLP` based Web Application which classify the given messages as Spam or Ham(Not Spam) built using `Flask`
 
 ### Technical Aspect
  
