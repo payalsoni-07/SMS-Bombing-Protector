@@ -1,4 +1,4 @@
-# SMS Spam Classifier 
+# SMS Bombing Spam CLassifier for SMS Bombing Protection 
 
 ### Overview
 
